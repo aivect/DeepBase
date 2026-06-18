@@ -1,0 +1,24 @@
+/* start custom scss snippet */
+
+
+/* Learning platform content readability */
+.article__content img {
+  max-width: 100%;
+  height: auto;
+}
+.article__content table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+}
+.article__content .MathJax_Display,
+.article__content mjx-container[display="true"] {
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
+}
+.article__content pre {
+  overflow-x: auto;
+}
+
+/* end custom scss snippet */

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">原始图片缺失</title>
+<desc id="desc">原始资料未包含 torch.nn 模块结构示意图。</desc>
+<rect width="1200" height="360" rx="24" fill="#f6f7f8"/>
+<rect x="2" y="2" width="1196" height="356" rx="22" fill="none" stroke="#d5d9de" stroke-width="4" stroke-dasharray="14 10"/>
+<g fill="#515151" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="middle">
+<text x="600" y="155" font-size="42" font-weight="700">原始图片资源缺失</text>
+<text x="600" y="220" font-size="28">torch.nn 模块结构示意图未包含在上传的压缩包中</text>
+</g>
+</svg>

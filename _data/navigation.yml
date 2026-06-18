@@ -1,0 +1,77 @@
+header:
+  - title: 文档
+    url: /learning/
+  - title: 关于
+    url: /about.html
+  - title: GitHub
+    url: https://github.com/nnxiong/DeepBase
+
+learning:
+  - title: 入门基础
+    children:
+      - title: "01. Python 基础语法"
+        url: /learning/01-python.html
+      - title: "02. PyTorch 框架"
+        url: /learning/02-pytorch-framework-and-functions.html
+  - title: 神经网络基础
+    children:
+      - title: "03. 单层神经网络"
+        url: /learning/03-linear-regression-neural-network.html
+      - title: "04. 多层神经网络"
+        url: /learning/04-multilayer-neural-network.html
+      - title: "05. 神经网络损失函数"
+        url: /learning/05-loss-functions.html
+      - title: "06. 神经网络学习与梯度下降"
+        url: /learning/06-neural-network-training.html
+      - title: "07. 深度学习基础网络搭建与实现"
+        url: /learning/07-pytorch-network-implementation.html
+      - title: "08. 机器学习目标与模型评估"
+        url: /learning/08-model-evaluation.html
+      - title: "09. 模型拟合度与结构调整"
+        url: /learning/09-model-fitting-and-regularization.html
+      - title: "10. 深度学习优化算法"
+        url: /learning/10-deep-learning-optimization-algorithms.html
+      - title: "11. 数据归一化与 Batch Normalization"
+        url: /learning/11-normalization-and-batch-normalization.html
+  - title: NLP 与 CV 基础
+    children:
+      - title: "12. 计算机视觉基础"
+        url: /learning/12-computer-vision-foundations.html
+      - title: "13. NLP 基础"
+        url: /learning/13-nlp-foundations-and-word2vec.html
+      - title: "14. GRU 门控循环单元"
+        url: /learning/14-gated-recurrent-unit.html
+      - title: "15. LSTM 长短期记忆网络"
+        url: /learning/15-long-short-term-memory.html
+      - title: "16. 编码器-解码器架构"
+        url: /learning/16-encoder-decoder-architecture.html
+      - title: "17. Seq2Seq 序列到序列学习"
+        url: /learning/17-sequence-to-sequence-learning.html
+      - title: "18. 注意力机制"
+        url: /learning/18-attention-mechanism.html
+      - title: "19. 注意力分数"
+        url: /learning/19-attention-scores.html
+      - title: "20. 使用注意力机制的 Seq2Seq"
+        url: /learning/20-attention-based-seq2seq.html
+      - title: "21. 自注意力与位置编码"
+        url: /learning/21-self-attention-and-positional-encoding.html
+      - title: "22. Transformer 架构"
+        url: /learning/22-transformer-architecture.html
+      - title: "23. BERT 预训练与微调"
+        url: /learning/23-bert-pretraining-and-finetuning.html
+  - title: 大模型相关
+    children:
+      - title: "24. LLM 推理、Continuous Batching 与 vLLM"
+        url: /learning/24-llm-inference-batching-and-vllm.html
+      - title: "25. Agent 基础"
+        url: /learning/25-agent-systems.html
+      - title: "26. LLM 基础"
+        url: /learning/26-llm-interview-basics.html
+      - title: "27. 其他知识"
+        url: /learning/27-deep-learning-foundations.html
+  - title: 拓展
+    children:
+      - title: "28. 强化学习"
+        url: /learning/28-reinforcement-learning.html
+      - title: "29. 网络爬虫"
+        url: /learning/29-web-crawler.html
