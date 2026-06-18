@@ -20,7 +20,7 @@
 
 ## 站点技术
 本文档平台基于 `jekyll-TeXt-theme` 静态博客模板搭建：
-> https://github.com/kitian616/jekyll-TeXt-theme/tree/master
+> [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme/tree/master)
 
 ## 如何支持本项目
 如果这份学习笔记对你有所帮助，欢迎：
