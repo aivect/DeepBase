@@ -1,9 +1,9 @@
 # 深度筑基 | DeepBase
 深度学习基础知识习平台
 
-## 访问
+## 学习平台
 
-访问 [深度筑基 | DeepBase](https://nnxiong.github.io/DeepBase/)
+访问地址：[深度筑基 | DeepBase](https://nnxiong.github.io/DeepBase/)
 
 ## 简介
 
