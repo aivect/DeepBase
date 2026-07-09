@@ -43,7 +43,7 @@ license: false
 
 <div class="card card--clickable" onclick="window.location.href='{{ '/learning/03-linear-regression-neural-network.html' | relative_url }}'" style="margin-bottom:1rem;">
   <div class="card__content">
-    <h3><a href="{{ '/learning/03-linear-regression-neural-network.html' | relative_url }}">03. 单层神经网络：线性回归</a></h3>
+    <h3><a href="{{ '/learning/03-linear-regression-neural-network.html' | relative_url }}">03. 单层神经网络</a></h3>
     <p>点击进入本章节学习内容。</p>
   </div>
 </div>
