@@ -65,7 +65,7 @@ learning:
         url: /learning/24-llm-inference-batching-and-vllm.html
       - title: "25. Agent 基础"
         url: /learning/25-agent-systems.html
-      - title: "26. LLM 基础"
+      - title: "26. LLM 面试基础"
         url: /learning/26-llm-interview-basics.html
       - title: "27. 其他知识"
         url: /learning/27-deep-learning-foundations.html
