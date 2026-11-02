@@ -36,6 +36,6 @@ license: false
 
 本站源码托管在 GitHub：
 
-[https://github.com/nnxiong/DeepBase](https://github.com/nnxiong/DeepBase)
+[https://github.com/aivect/DeepBase](https://github.com/aivect/DeepBase)
 
 如果你觉得内容有帮助，欢迎 Star、Fork 或提交 Issue。
