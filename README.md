@@ -3,7 +3,7 @@
 
 ## 学习平台
 
-访问地址：[深度筑基 | DeepBase](https://nnxiong.github.io/DeepBase/)
+访问地址：[深度筑基 | DeepBase](https://aivect.github.io/DeepBase/)
 
 ## 简介
 
